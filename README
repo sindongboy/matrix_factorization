@@ -1,0 +1,19 @@
+// ----------------------------------------------------- //
+// Latent Factor Model based recommendation package
+// @author Dnoghun Shin / donghun.shin@sk.com
+//
+// Implemented following...
+// 1. Regularized matrix factorization 
+// 2. Regularized matrix factorization with Biases (user/item) 
+// TODO: 
+// 3. Feature-based matrix factorization
+// 4. Regularized ALS (use Mahout! for now.)
+// ----------------------------------------------------- //
+
+
+1. INPUT ( * = required )
+	*1.1. User Info.
+	*1.2. Item Info.
+	*1.3. Feedback Table.
+
+2. OUTPUT
